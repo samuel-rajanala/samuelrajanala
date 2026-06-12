@@ -1,20 +1,18 @@
+Samuel Rajanala GitHub Profile README
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Samuel%20Rajanala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;SOC+Analyst;Network+Security+Enthusiast;AI+%26+Automation+Builder;Student+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=SOC+Analyst;Cybersecurity+Enthusiast;Threat+Detection+Learner;Network+Security+Practitioner;Security+Automation+Builder" />
 
 <br/>
 
 ![](https://img.shields.io/badge/B.Tech-Cybersecurity-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/SOC-Analyst-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20%26%20Automation-Builder-A855F7?style=for-the-badge)
+![](https://img.shields.io/badge/Cybersecurity-Defensive%20Security-A855F7?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Location-Jangareddygudem%2C%20India-111827?style=for-the-badge)
-
-<a href="https://github.com/samuel-rajanala">
-<img src="https://img.shields.io/badge/Portfolio-GitHub%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="https://linkedin.com/in/samuelrajanala">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -32,7 +30,6 @@
 
 ![](https://komarev.com/ghpvc/?username=samuel-rajanala&style=for-the-badge&color=7C3AED)
 ![](https://img.shields.io/github/followers/samuel-rajanala?style=for-the-badge&color=4F46E5)
-![](https://img.shields.io/github/stars/samuel-rajanala?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
 
 </div>
 
@@ -40,22 +37,19 @@
 
 # About
 
-I am a Cybersecurity student at Ramachandra College of Engineering with hands-on experience in SOC operations, network security, threat detection, and security monitoring.
+I am a Cybersecurity student and aspiring SOC Analyst with hands-on exposure to network security, threat detection, security monitoring, and defensive security operations.
 
-Through internships with Fortinet and Palo Alto, I have gained practical exposure to enterprise security concepts including firewalls, SSL inspection, authentication systems, cloud security fundamentals, and defensive security operations.
+Through internships at Fortinet and Palo Alto, I have gained practical experience with enterprise security concepts including firewall technologies, SSL inspection, authentication systems, threat intelligence, and cloud security fundamentals.
 
-I enjoy building security-focused tools that combine cybersecurity, automation, and AI technologies to solve real-world problems. My projects focus on threat detection, log analysis, security monitoring, and community protection systems.
-
-Currently, I am focused on strengthening my skills in SOC operations, threat intelligence, detection engineering, and security automation while contributing to impactful cybersecurity projects.
+I enjoy building security-focused projects that combine automation, monitoring, and threat detection to solve real-world cybersecurity challenges. My current focus is strengthening my capabilities in SOC operations, security monitoring, and defensive security workflows.
 
 ### Open To
 
-- Cybersecurity Internships
 - SOC Analyst Roles
-- Security Engineering Opportunities
-- Open Source Security Projects
-- AI & Automation Projects
-- Global Remote Opportunities
+- Cybersecurity Internships
+- Security Operations Opportunities
+- Security Automation Projects
+- Open Source Security Contributions
 
 ---
 
@@ -69,16 +63,12 @@ Currently, I am focused on strengthening my skills in SOC operations, threat int
 ![](https://img.shields.io/badge/Threat%20Detection-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/Threat%20Intelligence-A855F7?style=for-the-badge)
 ![](https://img.shields.io/badge/Incident%20Response-6366F1?style=for-the-badge)
+
 ![](https://img.shields.io/badge/Network%20Security-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Cloud%20Security-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Security%20Monitoring-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Cloud%20Security-A855F7?style=for-the-badge)
 
 </div>
-
-## Programming
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=javascript" />
-</p>
 
 ## Security Tools & Platforms
 
@@ -88,35 +78,42 @@ Currently, I am focused on strengthening my skills in SOC operations, threat int
 ![](https://img.shields.io/badge/VirusTotal%20API-394EFF?style=for-the-badge)
 ![](https://img.shields.io/badge/SSL%20Inspection-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/Firewall%20Technologies-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Security%20Monitoring-A855F7?style=for-the-badge)
 
 </div>
 
-## Platforms & Collaboration
+## Development & Collaboration
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=javascript,git,github" />
 </p>
 
 <div align="center">
 
-![](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge)
 ![](https://img.shields.io/badge/REST%20APIs-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge)
 ![](https://img.shields.io/badge/Discord%20Development-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
 ---
 
-# AI / Security Automation Expertise
+# Security Focus Areas
 
-| Domain | Proficiency | Details |
-|----------|------------|-----------|
-| AI Tools | Intermediate | AI-assisted productivity and automation |
-| Security Automation | Intermediate | Security workflow automation |
-| API Integrations | Intermediate | VirusTotal API integration |
-| Threat Detection | Intermediate | Security event analysis and monitoring |
-| Security Intelligence | Intermediate | Threat intelligence enrichment |
+<div align="center">
+
+![](https://img.shields.io/badge/SOC%20Operations-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Threat%20Detection-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Threat%20Intelligence-A855F7?style=for-the-badge)
+
+![](https://img.shields.io/badge/Incident%20Response-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/Network%20Security-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Security%20Monitoring-4F46E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/Malware%20Analysis-A855F7?style=for-the-badge)
+![](https://img.shields.io/badge/Firewall%20Technologies-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/SSL%20Inspection-7C3AED?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -125,70 +122,54 @@ Currently, I am focused on strengthening my skills in SOC operations, threat int
 <details>
 <summary><strong>Multi-Format Encoder / Decoder with Auto Detection</strong></summary>
 
-### Project Overview
+### Overview
 
-A cybersecurity-focused utility capable of automatically identifying encoded content through pattern recognition and confidence scoring techniques.
+A cybersecurity-focused utility capable of identifying encoded content through pattern recognition and confidence-based detection techniques.
 
 | Category | Details |
 |-----------|-----------|
-| Stack | JavaScript, Pattern Recognition |
+| Stack | JavaScript |
 | Scale | Multi-format Encoding Detection |
-| Performance | Confidence-Based Identification |
-| Security | Safe Processing Workflows |
-| Impact | Accelerates CTF & Security Investigations |
-| Repository | Coming Soon |
-
-#### Professional Impact
-
-Designed to eliminate unreliable format assumptions and improve analyst productivity when working with unidentified encoded data. Includes a web-based version for accessibility and practical cybersecurity use cases.
+| Performance | Confidence-Based Analysis |
+| Security | Safe Data Processing |
+| Impact | CTF & Security Investigations |
+| Repository | Private |
 
 </details>
-
-<br/>
 
 <details>
 <summary><strong>SSH Guardian — Brute Force Detection & Response System</strong></summary>
 
-### Project Overview
+### Overview
 
-A real-time defensive security platform that monitors Linux authentication logs and detects SSH brute-force attacks through intelligent pattern analysis.
+A defensive security project designed to monitor Linux authentication logs and identify SSH brute-force attempts through behavioral detection techniques.
 
 | Category | Details |
 |-----------|-----------|
-| Stack | Linux, Security Monitoring |
+| Stack | Linux Security Monitoring |
 | Scale | Real-Time Log Monitoring |
-| Performance | Automated Threat Detection |
-| Security | Multi-Stage Alerting |
+| Performance | Automated Detection |
+| Security | Alerting & Monitoring |
 | Impact | SOC Workflow Simulation |
-| Repository | Coming Soon |
-
-#### Professional Impact
-
-Built to emulate enterprise security monitoring environments while demonstrating practical expertise in log analysis, detection engineering, incident response, and defensive operations.
+| Repository | Private |
 
 </details>
-
-<br/>
 
 <details>
 <summary><strong>Shield Bot</strong></summary>
 
-### Project Overview
+### Overview
 
-An intelligent Discord security bot designed to identify scams, malicious URLs, and suspicious content using VirusTotal API integration.
+A Discord security bot leveraging VirusTotal API integration to identify scams, suspicious URLs, and malicious content.
 
 | Category | Details |
 |-----------|-----------|
-| Stack | JavaScript, Discord API, VirusTotal API |
+| Stack | JavaScript, VirusTotal API |
 | Scale | Community Security Automation |
-| Performance | Real-Time Threat Validation |
-| Security | Scam & Suspicious Link Detection |
-| Impact | Improved Server Protection |
-| Repository | Coming Soon |
-
-#### Professional Impact
-
-Developed moderation automation, threat monitoring, and security intelligence workflows that help online communities proactively defend against malicious activity.
+| Performance | Real-Time Analysis |
+| Security | Threat Intelligence Integration |
+| Impact | Community Protection |
+| Repository | Private |
 
 </details>
 
@@ -200,20 +181,15 @@ Developed moderation automation, threat monitoring, and security intelligence wo
 
 **Apr 2026 – Present**
 
-Learned cybersecurity concepts including social engineering, malware analysis, encryption, authentication, endpoint security, SSL inspection, firewall technologies, and modern enterprise security practices.
-
-### Scope of Work
-
 - SSL Inspection
 - Firewall Technologies
+- Network Security Fundamentals
 - Authentication Systems
-- Network Security
-- Enterprise Security Fundamentals
-- Defensive Security Operations
+- Enterprise Security Practices
 
 **Skills**
 
-`FortiGate` `Network Security` `SSL Inspection` `Firewalls`
+`FortiGate` `Network Security` `Firewalls` `SSL Inspection`
 
 ---
 
@@ -221,20 +197,15 @@ Learned cybersecurity concepts including social engineering, malware analysis, e
 
 **Jan 2026 – Mar 2026**
 
-Completed hands-on cybersecurity labs and real-world scenarios focused on threat detection, network security, cloud security, and security operations.
-
-### Scope of Work
-
-- SOC Workflows
-- Vulnerability Assessment
 - Threat Detection
-- Security Monitoring
+- SOC Workflows
 - Cloud Security
-- Incident Response Concepts
+- Security Monitoring
+- Vulnerability Assessment
 
 **Skills**
 
-`SOC` `Threat Intelligence` `Cloud Security` `Threat Detection`
+`SOC` `Threat Intelligence` `Cloud Security`
 
 ---
 
@@ -242,72 +213,14 @@ Completed hands-on cybersecurity labs and real-world scenarios focused on threat
 
 **Apr 2026 – Present**
 
-Developing security-focused Discord automation systems that leverage threat intelligence and real-time analysis to protect online communities.
-
-### Scope of Work
-
-- Discord Bot Development
-- API Integrations
 - Security Automation
-- Threat Intelligence
-- Logging Systems
-- Community Protection
+- VirusTotal Integration
+- Threat Monitoring
+- Community Protection Systems
 
 **Skills**
 
-`JavaScript` `REST APIs` `VirusTotal API` `GitHub`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|------------|---------|
-| Fortinet Internship | Enterprise security and firewall exposure |
-| Palo Alto Internship | Hands-on SOC and cybersecurity operations experience |
-| Security Automation Projects | Built practical cybersecurity tools and workflows |
-| Threat Detection Experience | Exposure to monitoring, analysis, and response workflows |
-| AI & Automation Interest | Applying intelligent automation to cybersecurity challenges |
-
-</div>
-
----
-
-# Certifications
-
-### AWS
-
-![](https://img.shields.io/badge/In%20Progress-232F3E?style=for-the-badge)
-
-### Oracle
-
-![](https://img.shields.io/badge/In%20Progress-F80000?style=for-the-badge)
-
-### NPTEL
-
-![](https://img.shields.io/badge/In%20Progress-4F46E5?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/In%20Progress-1BA0D7?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-![](https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode)
-
-![](https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-2F8D46?style=for-the-badge)
-
-![](https://img.shields.io/badge/HackerRank-Coming%20Soon-00EA64?style=for-the-badge)
-
-![](https://img.shields.io/badge/CodeChef-Coming%20Soon-5B4638?style=for-the-badge)
-
-</div>
+`JavaScript` `REST APIs` `GitHub`
 
 ---
 
@@ -345,38 +258,45 @@ Developing security-focused Discord automation systems that leverage threat inte
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/samuel-rajanala/samuel-rajanala/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
 Learning:
   - SOC Operations
   - Threat Detection
-  - Network Security
   - Threat Intelligence
+  - Incident Response
 
 Building:
   - SSH Guardian
   - Shield Bot
-  - Security Automation Tools
+  - Security Automation Projects
 
 Exploring:
-  - AI Tools
   - Security Monitoring
+  - Malware Analysis
   - Cloud Security
   - Defensive Security Operations
 
 Open_To:
-  - Cybersecurity Internships
   - SOC Analyst Roles
+  - Cybersecurity Internships
   - Security Engineering Opportunities
   - Open Source Security Projects
+
+---
+
+Connect
+
+<div align="center"><a href="mailto:samuelrajanala@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-samuelrajanala%40gmail.com-A855F7?style=for-the-badge&logo=gmail"/>
+</a><a href="https://linkedin.com/in/samuelrajanala">
+<img src="https://img.shields.io/badge/LinkedIn-Samuel%20Rajanala-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a><a href="https://github.com/samuel-rajanala">
+<img src="https://img.shields.io/badge/GitHub-samuel--rajanala-111827?style=for-the-badge&logo=github"/>
+</a></div>---
+
+<div align="center">"Building stronger defenses through cybersecurity, monitoring, and continuous learning."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:A855F7" /></div>
+```
